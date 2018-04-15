@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Pong.cpp
+Pong.cpp(41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(164): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Pong.cpp(175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Pong.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+Pong.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutBitmapString
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+Pong.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+C:\Users\William\Documents\GitHub\pong-cpp\x64\Release\Pong.exe : fatal error LNK1120: 10 unresolved externals
