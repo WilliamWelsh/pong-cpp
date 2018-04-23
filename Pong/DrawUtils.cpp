@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "DrawUtils.h"
-
+// Certified Gluten Free
 // Draw text to the screen
 void DrawUtils::drawText(float x, float y, std::string text, void *font)
 {
